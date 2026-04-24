@@ -12,8 +12,12 @@
 ```
 gitlab  git@gitlab.com:ShishelM_lab/devops-netology.git (fetch)
 gitlab  git@gitlab.com:ShishelM_lab/devops-netology.git (push)
+gitlab-https    https://gitlab.com/ShishelM_lab/devops-netology.git (fetch)
+gitlab-https    https://gitlab.com/ShishelM_lab/devops-netology.git (push)
 origin  git@github.com:ShishelM/devops-netology.git (fetch)
 origin  git@github.com:ShishelM/devops-netology.git (push)
+origin-https    https://github.com/ShishelM/devops-netology.git (fetch)
+origin-https    https://github.com/ShishelM/devops-netology.git (push)
 ```
 Выполните push локальной ветки `main`
 ```
@@ -140,5 +144,9 @@ dc92e1e Final fix: proper folder structure
 ### Задание 4. Упрощаем себе жизнь
 
 Я использую VS Code, тут тоже есть похожий функционал в Source Control. Но я  предпочитаю использовать команды в терминале. 
+
+![alt text](/02-git-02-base/imgimage2.png)
+
+![alt text](/02-git-02-base/imgimage3.png)
 
 ----
