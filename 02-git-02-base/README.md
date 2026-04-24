@@ -94,3 +94,24 @@ index 0000000..89da981
 v0.0 commit
 v0.1 tag
 ```
+
+### Задание 3. Ветки
+
+* `Из за того что переделал структуру репозитория, часть предидущих коммитов из первого задания потерялась, поэтому возьму другой коммит для выполнения задания (например: Fix: convert submodule to normal folder with files).`
+
+`git log --oneline`
+```
+7d66d5f (HEAD -> main, origin/main, gitlab/main) clear
+7e205cf New to readme
+b79a356 (tag: v0.1, tag: v0.0) add new homework
+2793c57 Fix: readme
+d4e5e81 Fix: readme amd img
+6a91b0b Fix: convert submodule to normal folder with files
+dc92e1e Final fix: proper folder structure
+```
+
+git checkout 6a91b0b
+
+
+
+----
